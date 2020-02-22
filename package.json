@@ -67,7 +67,7 @@
     "os": "^0.1.1",
     "page": "^1.8.6",
     "qs": "^6.8.0",
-    "source-map-support": "^0.5.12",
+    "source-map-support": "^0.5.16",
     "xss": "^1.0.6"
   }
 }
